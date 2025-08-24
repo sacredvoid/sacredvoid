@@ -1,5 +1,3 @@
-# Hi! 
-
 ## 💫 About Me
 
 🔭 Building real-world AI with LLMs, vision, and recommender systems <br>
