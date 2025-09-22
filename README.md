@@ -5,7 +5,7 @@
 🌱 Learning advanced model optimization & deployment <br>
 💬 Ask me about MLOps and productionizing AI <br>
 ⚡ Fun fact: Won hackathons at Harvard & UMass with rapid AI prototypes <br>
-
+🚀 **Checkout my recently built projects** [Catalyze](https://github.com/sacredvoid/mit-catalyze) and [TLDR-Conditions](https://github.com/sacredvoid/tldr-conditions) <br>
 
 ## 🌐 Find me on:
 <p align="left">
