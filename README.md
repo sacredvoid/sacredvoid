@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=800&center=true&vCenter=true&width=950&lines=Machine+Learning+Engineer;Applied+AI+%7C+LLMs+%7C+Generative+AI;Computer+Vision+%7C+Edge+AI+%7C+Deployment;MLOps+%7C+Cloud+%7C+Scalable+Systems" alt="Typing SVG" />
+</p>
+
 ## 💫 About Me
 
 🔭 Building real-world AI with LLMs, vision, and recommender systems <br>
