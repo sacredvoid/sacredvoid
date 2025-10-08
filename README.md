@@ -8,7 +8,7 @@
 👯 Open to collabs on ML/NLP + edge AI projects <br>
 🌱 Learning advanced model optimization & deployment <br>
 💬 Ask me about MLOps and productionizing AI <br>
-⚡ Fun fact: Won hackathons at Harvard & UMass with rapid AI prototypes <br>
+⚡ Fun fact: **3 time hackathon winner** @ MIT, Harvard, UMass <br>
 🚀 **Checkout my recently built projects** [Catalyze](https://github.com/sacredvoid/mit-catalyze) and [TLDR-Conditions](https://github.com/sacredvoid/tldr-conditions) <br>
 
 ## 🌐 Find me on:
