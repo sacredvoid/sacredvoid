@@ -18,6 +18,11 @@ Software engineer building AI that ships — LLMs, computer vision, recommender 
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cpytorch%2Csklearn%2Copencv%2Cfastapi%2Creact%2Cnextjs%2Cnodejs%2Cpostgres%2Csupabase%2Cmongodb%2Caws%2Cgcp%2Cdocker%2Ckubernetes%2Cgithubactions%2Cgit&amp;theme=light&amp;perline=10">
   <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cpytorch%2Csklearn%2Copencv%2Cfastapi%2Creact%2Cnextjs%2Cnodejs%2Cpostgres%2Csupabase%2Cmongodb%2Caws%2Cgcp%2Cdocker%2Ckubernetes%2Cgithubactions%2Cgit&amp;theme=dark&amp;perline=10"/>
 </picture>
+<br>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
 </p>
 
 ---
