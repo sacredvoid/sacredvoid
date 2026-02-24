@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=sacredvoid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=software%20engineer%20%C2%B7%20applied%20ai&descAlignY=52&descSize=18&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=samanvya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=software%20engineer%20%C2%B7%20applied%20ai&descAlignY=52&descSize=18&descAlign=50" width="100%"/>
 
 Software engineer building AI that ships — LLMs, computer vision, recommender systems, edge deployment. 3x hackathon winner at MIT, Harvard, and UMass. Claude Code power user building open-source developer tools and AI agent skills.
 
@@ -28,6 +28,7 @@ Software engineer building AI that ships — LLMs, computer vision, recommender 
 ---
 
 <p align="center">
+  <a href="https://samanvya.dev">samanvya.dev</a> &middot;
   <a href="https://linkedin.com/in/samanvya-tripathi/">linkedin</a> &middot;
   <a href="mailto:samanvya.tripathi@gmail.com">email</a> &middot;
   <a href="https://www.strava.com/athletes/170840610">strava</a>
