@@ -14,9 +14,9 @@ Software engineer building AI that ships — LLMs, computer vision, recommender 
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp,pytorch,sklearn,opencv,fastapi,react,nextjs,nodejs,postgres,supabase,mongodb,aws,gcp,docker,kubernetes,githubactions,git&amp;theme=dark&amp;perline=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp,pytorch,sklearn,opencv,fastapi,react,nextjs,nodejs,postgres,supabase,mongodb,aws,gcp,docker,kubernetes,githubactions,git&amp;theme=light&amp;perline=10">
-  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py,ts,js,cpp,pytorch,sklearn,opencv,fastapi,react,nextjs,nodejs,postgres,supabase,mongodb,aws,gcp,docker,kubernetes,githubactions,git&amp;theme=dark&amp;perline=10"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cpytorch%2Csklearn%2Copencv%2Cfastapi%2Creact%2Cnextjs%2Cnodejs%2Cpostgres%2Csupabase%2Cmongodb%2Caws%2Cgcp%2Cdocker%2Ckubernetes%2Cgithubactions%2Cgit&amp;theme=dark&amp;perline=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cpytorch%2Csklearn%2Copencv%2Cfastapi%2Creact%2Cnextjs%2Cnodejs%2Cpostgres%2Csupabase%2Cmongodb%2Caws%2Cgcp%2Cdocker%2Ckubernetes%2Cgithubactions%2Cgit&amp;theme=light&amp;perline=10">
+  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cpytorch%2Csklearn%2Copencv%2Cfastapi%2Creact%2Cnextjs%2Cnodejs%2Cpostgres%2Csupabase%2Cmongodb%2Caws%2Cgcp%2Cdocker%2Ckubernetes%2Cgithubactions%2Cgit&amp;theme=dark&amp;perline=10"/>
 </picture>
 </p>
 
