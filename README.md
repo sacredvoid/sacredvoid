@@ -5,8 +5,8 @@
 ## 💫 About Me
 
 🔭 Building real-world AI with LLMs, vision, and recommender systems <br>
+🤖 **Claude Code power user** — building AI agent skills & open-source tools <br>
 👯 Open to collabs on ML/NLP + edge AI projects <br>
-🌱 Learning advanced model optimization & deployment <br>
 💬 Ask me about MLOps and productionizing AI <br>
 ⚡ Fun fact: **3 time hackathon winner** @ MIT, Harvard, UMass <br>
 🚀 **Checkout my recently built projects** [Catalyze](https://github.com/sacredvoid/mit-catalyze) and [TLDR-Conditions](https://github.com/sacredvoid/tldr-conditions) <br>
@@ -46,12 +46,6 @@ An AI agent skill that generates single self-contained `.html` files with cinema
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge\&logo=google-cloud\&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white) |
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sacredvoid&theme=radical&hide_border=false&include_all_commits=true&count_private=true&&hide_rank=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sacredvoid&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📈 Activity
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=sacredvoid&theme=redical&hide_border=true&area=true)
