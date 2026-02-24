@@ -11,6 +11,19 @@
 ⚡ Fun fact: **3 time hackathon winner** @ MIT, Harvard, UMass <br>
 🚀 **Checkout my recently built projects** [Catalyze](https://github.com/sacredvoid/mit-catalyze) and [TLDR-Conditions](https://github.com/sacredvoid/tldr-conditions) <br>
 
+## 🍳 Featured Open Source
+
+### [Presentation Chef](https://github.com/sacredvoid/presentation-chef)
+> **Convert any content into stunning Apple Keynote-style HTML presentations using AI**
+
+An AI agent skill that generates single self-contained `.html` files with cinematic animations, glassmorphism design, and premium aesthetics — zero dependencies, works in any browser. Inspired by [ChronicleHQ](https://chroniclehq.com).
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E) ![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+
+**Works with:** Claude Code | Cursor | Windsurf | GitHub Copilot | Cline | Aider | Zed AI & more
+
+---
+
 ## 🌐 Find me on:
 <p align="left">
   <a href="https://linkedin.com/in/samanvya-tripathi/" target="_blank">
