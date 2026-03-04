@@ -10,6 +10,12 @@ Software engineer building AI that ships — LLMs, computer vision, recommender 
 
 [**TLDR-Conditions**](https://github.com/sacredvoid/tldr-conditions) — *Summarize terms & conditions so you don't have to read them*
 
+### what i'm learning
+
+[**today-i-learned**](https://github.com/sacredvoid/today-i-learned) — a running log of things i learned, built, and broke. each entry has diagrams, annotated scripts, and runnable demos.
+
+> latest: [doc-to-lora](https://github.com/sacredvoid/today-i-learned/tree/main/03-04-26-doc-to-lora) — hypernetworks that teach LLMs new facts instantly, no fine-tuning or RAG needed
+
 ### stack
 
 <p align="center">
