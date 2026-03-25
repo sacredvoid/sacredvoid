@@ -4,11 +4,17 @@ Software engineer building AI that ships — LLMs, computer vision, recommender 
 
 ### what i'm building
 
-[**Presentation Chef**](https://github.com/sacredvoid/presentation-chef) — AI agent skill that turns any content into cinematic Keynote-style HTML presentations. Single file, zero dependencies, any browser.
+[**The Paddock**](https://github.com/sacredvoid/the-paddock) — Free F1 encyclopedia with 860+ drivers, race replay, telemetry comparison, and a what-if championship simulator powered by ONNX. [Live](https://the-paddock-f1.vercel.app)
 
-[**Catalyze**](https://github.com/sacredvoid/mit-catalyze) — *Built at MIT hackathon*
+[**alignrl**](https://github.com/sacredvoid/alignrl) — LLM post-training playbook: SFT, GRPO, DPO, eval, and inference in one `pip install`. Colab notebooks, docs site, published on [PyPI](https://pypi.org/project/alignrl/). [Docs](https://sacredvoid.github.io/alignrl/)
 
-[**TLDR-Conditions**](https://github.com/sacredvoid/tldr-conditions) — *Summarize terms & conditions so you don't have to read them*
+[**SkillKit**](https://github.com/sacredvoid/skillkit) — Collection of AI coding skills (image fetching, logo generation, presentations, video processing) for Claude Code, Cursor, Windsurf, and Copilot. [Gallery](https://sacredvoid.github.io/skillkit/)
+
+[**Catalyze**](https://github.com/sacredvoid/mit-catalyze) — 1st Place at MIT LLM Hackathon. Multi-agent chemistry assistant with ChEMBL integration, lab automation, and safety analysis.
+
+[**ResearchProf**](https://github.com/sacredvoid/find-research-prof) — Wikipedia-style professor discovery by research topic, powered by OpenAlex (240M+ works). [Live](https://only-research.xyz)
+
+[**Claude Code Hub**](https://github.com/sacredvoid/claude-code-hub) — GitHub-style activity tracker for Claude Code usage with session timelines, contribution graphs, and analytics.
 
 ### what i'm learning
 
