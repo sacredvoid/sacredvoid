@@ -14,6 +14,8 @@ Software engineer building AI that ships — LLMs, computer vision, recommender 
 
 [**ResearchProf**](https://github.com/sacredvoid/find-research-prof) — Wikipedia-style professor discovery by research topic, powered by OpenAlex (240M+ works). [Live](https://only-research.xyz)
 
+[**Onyx**](https://github.com/sacredvoid/onyx) — Run Google's Gemma 4 entirely in your browser via WebGPU. Multimodal chat (text/image/audio), E2B vs E4B arena with side-by-side comparison, and a Python ONNX conversion toolkit. [Live](https://sacredvoid.github.io/onyx/)
+
 [**Claude Code Hub**](https://github.com/sacredvoid/claude-code-hub) — GitHub-style activity tracker for Claude Code usage with session timelines, contribution graphs, and analytics.
 
 ### what i'm learning
