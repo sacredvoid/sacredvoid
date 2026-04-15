@@ -1,16 +1,15 @@
 # Hey, I'm Samanvya 👋
 
-**Senior Applied AI Engineer · Forward Deployed Engineer · Solutions Architect**
+**Applied AI Engineer · Solutions Architect · Open Source Builder**
 
-I take vague customer problems and ship the AI that solves them. Full loop ownership: stakeholder discovery, requirements scoping, architecture, implementation, and iteration in production. LLMs, computer vision, recommender systems, edge deployment. 3x hackathon winner (MIT, Harvard, UMass). Claude Code power user shipping open-source developer tools and agent skills.
+I turn ambiguous customer problems into production AI. From requirements through architecture, implementation, and iteration. LLMs, computer vision, recommender systems, edge deployment. 3x hackathon winner (MIT, Harvard, UMass). Claude Code power user shipping open-source developer tools and agent skills.
 
 [samanvya.dev](https://samanvya.dev) · [LinkedIn](https://linkedin.com/in/samanvya-tripathi/)
 
 ## 🚀 What I Do
 
-- **Forward Deployed Engineering** → customer workshops, requirements gathering, PRDs, rapid prototyping, production delivery with live stakeholder feedback loops
 - **Applied AI Engineering** → LLM post-training, fine-tuning, eval pipelines, agent orchestration, RLHF, RAG systems
-- **Solutions Architecture** → end-to-end system design across backend, inference, frontend, and edge (WebGPU, ONNX)
+- **Solutions Architecture** → customer requirements to shipped systems, end-to-end design across backend, inference, frontend, and edge (WebGPU, ONNX)
 - **Developer Tooling** → open-source skills, agent frameworks, Claude Code ecosystem
 
 ## 🏆 Key Achievement
@@ -48,7 +47,7 @@ Built **Catalyze**, 1st Place at the MIT LLM Hackathon:
 
 **Hackathons** → 1st Place MIT LLM Hackathon (Catalyze) · Harvard Hackathon winner · UMass Hackathon winner
 
-**Open Source** → alignrl on PyPI · SkillKit gallery · Claude Code ecosystem contributor
+**Open Source** → alignrl (published on PyPI) · SkillKit · contributions to llama.cpp, torch-sim, and the Claude Code skills ecosystem
 
 ## 📫 Let's Connect
 
