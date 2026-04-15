@@ -1,15 +1,16 @@
 # Hey, I'm Samanvya 👋
 
-**Software Engineer · Applied AI · Open Source Builder**
+**Senior Applied AI Engineer · Forward Deployed Engineer · Solutions Architect**
 
-I build AI that actually ships. LLMs, computer vision, recommender systems, edge deployment. 3x hackathon winner (MIT, Harvard, UMass). Claude Code power user shipping open-source developer tools and agent skills.
+I take vague customer problems and ship the AI that solves them. Full loop ownership: stakeholder discovery, requirements scoping, architecture, implementation, and iteration in production. LLMs, computer vision, recommender systems, edge deployment. 3x hackathon winner (MIT, Harvard, UMass). Claude Code power user shipping open-source developer tools and agent skills.
 
 [samanvya.dev](https://samanvya.dev) · [LinkedIn](https://linkedin.com/in/samanvya-tripathi/)
 
 ## 🚀 What I Do
 
-- **Applied AI Engineering** → LLM post-training, fine-tuning, eval pipelines, RLHF
-- **Zero-to-One Shipping** → rapid prototypes, edge deployment, WebGPU, ONNX inference
+- **Forward Deployed Engineering** → customer workshops, requirements gathering, PRDs, rapid prototyping, production delivery with live stakeholder feedback loops
+- **Applied AI Engineering** → LLM post-training, fine-tuning, eval pipelines, agent orchestration, RLHF, RAG systems
+- **Solutions Architecture** → end-to-end system design across backend, inference, frontend, and edge (WebGPU, ONNX)
 - **Developer Tooling** → open-source skills, agent frameworks, Claude Code ecosystem
 
 ## 🏆 Key Achievement
