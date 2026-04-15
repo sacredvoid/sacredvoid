@@ -1,57 +1,61 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=samanvya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=software%20engineer%20%C2%B7%20applied%20ai&descAlignY=52&descSize=18&descAlign=50" width="100%"/>
+# Hey, I'm Samanvya 👋
 
-Software engineer building AI that ships — LLMs, computer vision, recommender systems, edge deployment. 3x hackathon winner at MIT, Harvard, and UMass. Claude Code power user building open-source developer tools and AI agent skills.
+**Software Engineer · Applied AI · Open Source Builder**
 
-### what i'm building
+I build AI that actually ships. LLMs, computer vision, recommender systems, edge deployment. 3x hackathon winner (MIT, Harvard, UMass). Claude Code power user shipping open-source developer tools and agent skills.
 
-[**The Paddock**](https://github.com/sacredvoid/the-paddock) — Free F1 encyclopedia with 860+ drivers, race replay, telemetry comparison, and a what-if championship simulator powered by ONNX. [Live](https://the-paddock-f1.vercel.app)
+[samanvya.dev](https://samanvya.dev) · [LinkedIn](https://linkedin.com/in/samanvya-tripathi/)
 
-[**alignrl**](https://github.com/sacredvoid/alignrl) — LLM post-training playbook: SFT, GRPO, DPO, eval, and inference in one `pip install`. Colab notebooks, docs site, published on [PyPI](https://pypi.org/project/alignrl/). [Docs](https://sacredvoid.github.io/alignrl/)
+## 🚀 What I Do
 
-[**SkillKit**](https://github.com/sacredvoid/skillkit) — Collection of AI coding skills (image fetching, logo generation, presentations, video processing) for Claude Code, Cursor, Windsurf, and Copilot. [Gallery](https://sacredvoid.github.io/skillkit/)
+- **Applied AI Engineering** → LLM post-training, fine-tuning, eval pipelines, RLHF
+- **Zero-to-One Shipping** → rapid prototypes, edge deployment, WebGPU, ONNX inference
+- **Developer Tooling** → open-source skills, agent frameworks, Claude Code ecosystem
 
-[**Catalyze**](https://github.com/sacredvoid/mit-catalyze) — 1st Place at MIT LLM Hackathon. Multi-agent chemistry assistant with ChEMBL integration, lab automation, and safety analysis.
+## 🏆 Key Achievement
 
-[**ResearchProf**](https://github.com/sacredvoid/find-research-prof) — Wikipedia-style professor discovery by research topic, powered by OpenAlex (240M+ works). [Live](https://only-research.xyz)
+Built **Catalyze**, 1st Place at the MIT LLM Hackathon:
+- Multi-agent chemistry assistant with ChEMBL integration
+- Lab automation workflows and safety analysis
+- Full system built end-to-end in under 36 hours
 
-[**Onyx**](https://github.com/sacredvoid/onyx) — Run Google's Gemma 4 entirely in your browser via WebGPU. Multimodal chat (text/image/audio), E2B vs E4B arena with side-by-side comparison, and a Python ONNX conversion toolkit. [Live](https://sacredvoid.github.io/onyx/)
+## 📝 Featured Projects
 
-[**Claude Code Hub**](https://github.com/sacredvoid/claude-code-hub) — GitHub-style activity tracker for Claude Code usage with session timelines, contribution graphs, and analytics.
+- [The Paddock](https://github.com/sacredvoid/the-paddock) - F1 encyclopedia with 860+ drivers, race replay, telemetry compare, and an ONNX-powered what-if championship simulator. [Live](https://the-paddock-f1.vercel.app)
+- [alignrl](https://github.com/sacredvoid/alignrl) - LLM post-training library: SFT, GRPO, DPO, eval, and inference in one `pip install`. [PyPI](https://pypi.org/project/alignrl/) · [Docs](https://sacredvoid.github.io/alignrl/)
+- [SkillKit](https://github.com/sacredvoid/skillkit) - Collection of AI coding skills for Claude Code, Cursor, Windsurf, and Copilot. [Gallery](https://sacredvoid.github.io/skillkit/)
+- [Onyx](https://github.com/sacredvoid/onyx) - Google Gemma 4 running fully in the browser via WebGPU. Multimodal chat and E2B vs E4B side-by-side arena. [Live](https://sacredvoid.github.io/onyx/)
+- [ResearchProf](https://github.com/sacredvoid/find-research-prof) - Wikipedia-style professor discovery powered by OpenAlex (240M+ works). [Live](https://only-research.xyz)
+- [Claude Code Hub](https://github.com/sacredvoid/claude-code-hub) - GitHub-style activity tracker for Claude Code with session timelines and contribution graphs
+- [today-i-learned](https://github.com/sacredvoid/today-i-learned) - A running log of things I built, broke, and figured out. Diagrams, annotated scripts, runnable demos
 
-### what i'm learning
+## 🛠 Tech Stack
 
-[**today-i-learned**](https://github.com/sacredvoid/today-i-learned) — a running log of things i learned, built, and broke. each entry has diagrams, annotated scripts, and runnable demos.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
-> latest: [doc-to-lora](https://github.com/sacredvoid/today-i-learned/tree/main/03-04-26-doc-to-lora) — hypernetworks that teach LLMs new facts instantly, no fine-tuning or RAG needed
+## 🏅 Recognition
 
-### stack
+**Hackathons** → 1st Place MIT LLM Hackathon (Catalyze) · Harvard Hackathon winner · UMass Hackathon winner
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cpytorch%2Csklearn%2Copencv%2Cfastapi%2Creact%2Cnextjs%2Cnodejs%2Cpostgres%2Csupabase%2Cmongodb%2Caws%2Cgcp%2Cdocker%2Ckubernetes%2Cgithubactions%2Cgit&amp;theme=dark&amp;perline=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cpytorch%2Csklearn%2Copencv%2Cfastapi%2Creact%2Cnextjs%2Cnodejs%2Cpostgres%2Csupabase%2Cmongodb%2Caws%2Cgcp%2Cdocker%2Ckubernetes%2Cgithubactions%2Cgit&amp;theme=light&amp;perline=10">
-  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cpytorch%2Csklearn%2Copencv%2Cfastapi%2Creact%2Cnextjs%2Cnodejs%2Cpostgres%2Csupabase%2Cmongodb%2Caws%2Cgcp%2Cdocker%2Ckubernetes%2Cgithubactions%2Cgit&amp;theme=dark&amp;perline=10"/>
-</picture>
-<br>
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-</p>
+**Open Source** → alignrl on PyPI · SkillKit gallery · Claude Code ecosystem contributor
+
+## 📫 Let's Connect
+
+[![Website](https://img.shields.io/badge/samanvya.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://samanvya.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samanvya-tripathi/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samanvya.tripathi@gmail.com)
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/170840610)
 
 ---
 
-<p align="center">
-  <a href="https://samanvya.dev">samanvya.dev</a> &middot;
-  <a href="https://linkedin.com/in/samanvya-tripathi/">linkedin</a> &middot;
-  <a href="mailto:samanvya.tripathi@gmail.com">email</a> &middot;
-  <a href="https://www.strava.com/athletes/170840610">strava</a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sacredvoid&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sacredvoid&amp;theme=github-light&amp;hide_border=true&amp;area=true">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sacredvoid&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%"/>
-</picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer" width="100%"/>
+💼 **Open to Applied AI / ML Engineer / Research Engineer roles**
